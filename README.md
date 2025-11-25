@@ -35,5 +35,7 @@ Kullanıcıları listeleme ve detay sayfası
 -- TypeScript
 
 -- iconsax-react-nativejs
-# http-axios[
+
+
+
 ![](https://github.com/Rasime-Dumlupunar/http-axios/blob/main/httpaxios.mp4)
