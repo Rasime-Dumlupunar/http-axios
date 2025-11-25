@@ -1,0 +1,9 @@
+// export const BASE_URL = 'https://randomuser.me/';
+// export const USERS_URL = 'api';
+export const BASE_URL = 'https://jsonplaceholder.typicode.com/';
+export const USERS_URL = 'users';
+export const POSTS_URL = 'posts';
+export const COMMENTS_URL = 'comments';
+export const ALBUMS_URL = 'albums';
+export const PHOTOS_URL = 'photos';
+export const TODOS_URL = 'todos';

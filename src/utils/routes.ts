@@ -1,0 +1,9 @@
+export const USERS = 'Kullanıcılar';
+export const USERDETAIL = 'Kullanıcı Detayı';
+export const POSTS = 'Posts';
+export const COMMENTS = 'Comments';
+export const ALBUMS = 'Albums';
+export const PHOTOS = 'Photos';
+export const TODOS = 'Todos';
+export const ADDNEWPOST = 'AddNewPost';
+export const UPDATEPOST = 'UpdatePost';
